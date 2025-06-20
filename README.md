@@ -1,6 +1,6 @@
-# PromptVault
+# [PromptVault](https://github.com/bill-lee-297/PromptVault/blob/main/%EA%BF%80%ED%8C%81_%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
-AI 프롬프트와 관련된 꿀팁, 노하우, 참고 자료 등을 한 곳에 모아 관리하는 저장소입니다. 여기저기 흩어진 프롬프트 정보를 쉽게 찾고, 서로 공유할 수 있도록 표 형식으로 정리합니다.
+AI 프롬프트와 관련된 꿀팁, 노하우, 참고 자료 등을 한 곳에 모아 관리하는 [저장소](https://github.com/bill-lee-297/PromptVault/blob/main/%EA%BF%80%ED%8C%81_%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)입니다. 여기저기 흩어진 프롬프트 정보를 쉽게 찾고, 서로 공유할 수 있도록 표 형식으로 정리합니다.
 
 ---
 
